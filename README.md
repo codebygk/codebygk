@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Gopalakrishnan (@buildergk)
+# 👋 Hey, I'm Gopalakrishnan (@codebygk)
 
 ### Building the bridge between QA, Development, and AI
 
@@ -50,8 +50,8 @@ Quality assurance isn't just about finding bugs—it's about building systems th
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [@buildergk](https://linkedin.com/in/buildergk)
-- **X:** [@buildergk](https://github.com/buildergk)
+- **LinkedIn:** [@codebygk](https://linkedin.com/in/codebygk)
+- **X:** [@codebygk](https://github.com/codebygk)
 
 💬 **Let's collaborate** on making QA engineering more powerful and accessible
 
