@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488,0f766e&height=100&section=header&animation=fadeIn" width="100%"/>
-
 # Gopalakrishnan P (@codebygk)
 
-### Senior SDET - Solopreneur
+### Building Practical Software Tools & Resources
 
-`11+ years` &nbsp;|&nbsp; `Test Automation` &nbsp;|&nbsp; `AI-Powered Testing` &nbsp;|&nbsp; `Full Stack Dev`
+`11+ years` &nbsp;|&nbsp; `Test Automation` &nbsp;|&nbsp; `Full Stack Development`&nbsp;|&nbsp; `Solopreneur` &nbsp;
 
 <br/>
 
@@ -229,9 +227,6 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 
 <div align="left">
 
-**[Code By GK](https://codebygk.vercel.app)** - Built lean. Shipped with intent. Always learning.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488,0f766e&height=80&section=footer" width="100%"/>
-
+**[Code By GK](https://codebygk.vercel.app)** - Building Practical Software Tools & Resources
 
 </div>
