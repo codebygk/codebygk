@@ -15,34 +15,26 @@
 
 </div>
 
----
 
 ## About Me
 
-AI-Powered SDET with 11+ years of experience building intelligent, resilient, and self-healing test frameworks. Currently at **Mettler-Toledo, Coimbatore** - and shipping independent products as a solopreneur under **[codebygk.vercel.app](https://codebygk.vercel.app)**.
+AI-Powered SDET with 11+ years of experience building intelligent, resilient, and self-healing test frameworks.
 
 - 🧪 Specialising in **test automation**, AI tooling, and LLM evaluation engineering
 - 🛠️ Building Chrome extensions, web apps, and AI-powered tools
 - 🌱 Exploring the intersection of **QA + AI** - RAGAS, RAG pipelines, LLM evals
 - ✍️ Building in public and Sharing everything that I learn
 
----
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technologies
 
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br/>
+**🤖 AI & Machine Learning**
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Large_Language_Models-412991?style=flat-square&logo=anthropic&logoColor=white)
 ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-0d9488?style=flat-square&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🧪 Test Automation – UI</b></summary>
-<br/>
+**🧪 Test Automation - UI**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white)
@@ -51,11 +43,7 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 ![WinAppDriver](https://img.shields.io/badge/WinAppDriver-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![PyWinAuto](https://img.shields.io/badge/PyWinAuto-3776ab?style=flat-square&logo=python&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🔌 Test Automation – API</b></summary>
-<br/>
+**🔌 Test Automation - API**
 
 ![REST](https://img.shields.io/badge/REST-FF6B35?style=flat-square&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -64,11 +52,7 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-</details>
-
-<details open>
-<summary><b>🔒 Security & Performance Testing</b></summary>
-<br/>
+**🔒 Security & Performance Testing**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
@@ -79,22 +63,14 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 ![Hashcat](https://img.shields.io/badge/Hashcat-333333?style=flat-square&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
+**💻 Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
+**🎨 Frontend Development**
 
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Vue 3](https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
@@ -102,31 +78,19 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Mobile</b></summary>
-<br/>
+**⚙️ Backend & Mobile**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
+**🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon_Postgres-00e599?style=flat-square&logoColor=black)
 
-</details>
-
-<details open>
-<summary><b>🚀 DevOps & Infrastructure</b></summary>
-<br/>
+**🚀 DevOps & Infrastructure**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -136,27 +100,20 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</details>
+**🔧 Frameworks & Miscellaneous**
 
-<details open>
-<summary><b>🔧 Frameworks & Miscellaneous</b></summary>
-<br/>
-
-![BDD](https://img.shields.io/badge/BDD-Behave%2FSpecflow-brightgreen?style=flat-square)
+![Specflow](https://img.shields.io/badge/Specflow-purple?style=flat-square)
+![Behave](https://img.shields.io/badge/Behave-brightgreen?style=flat-square)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6B35?style=flat-square&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-68217A?style=flat-square&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![JFrog](https://img.shields.io/badge/JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white)
 ![Log4J](https://img.shields.io/badge/Log4J-D22128?style=flat-square&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285f4?style=flat-square&logo=googlechrome&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</details>
 
----
-
-## 🚀 Products I've Built
+## 🚀 Products
 
 | Product | Description | Type | Status |
 |:--------|:------------|:-----|:------:|
@@ -167,7 +124,6 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 
 > More at [codebygk.vercel.app/products](https://codebygk.vercel.app/products)
 
----
 
 ## 📦 Resources
 
@@ -176,8 +132,7 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 | [**Playwright Cheatsheet**](https://codebygk.vercel.app/resources/playwright-cheatsheet) | Cheatsheet |
 
 
-
-## 📦 Tutorials
+## 📕 Tutorials
 
 | Tutorial | Category |
 |:---------|:---------|
@@ -185,7 +140,6 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 
 > More at [codebygk.vercel.app/learn](https://codebygk.vercel.app/learn)
 
----
 
 ## 📊 GitHub Stats
 
@@ -198,7 +152,6 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 
 </div>
 
----
 
 ## 📈 Contribution Graph
 
@@ -208,7 +161,6 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 
 </div>
 
----
 
 ## 🏅 GitHub Achievements
 
@@ -223,7 +175,6 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 
 </div>
 
----
 
 <div align="left">
 
