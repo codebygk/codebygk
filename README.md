@@ -145,10 +145,10 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codebygk&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0d9488&icon_color=0d9488&text_color=c9d1d9&ring_color=0d9488&border_radius=12&count_private=true" height="175" />
-<img src="https://streak-stats.demolab.com?user=codebygk&theme=transparent&hide_border=true&background=0d1117&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&sideLabels=6b7280&dates=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=0d1117&border_radius=12" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=codebygk&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0d9488&icon_color=0d9488&text_color=c9d1d9&ring_color=0d9488&border_radius=12&count_private=true" height="160" />
+<img src="https://streak-stats.demolab.com?user=codebygk&theme=transparent&hide_border=true&background=0d1117&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&sideLabels=6b7280&dates=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=0d1117&border_radius=12" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebygk&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0d9488&text_color=c9d1d9&border_radius=12&langs_count=8" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebygk&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0d9488&text_color=c9d1d9&border_radius=12&langs_count=8" height="160" />
 
 </div>
 
