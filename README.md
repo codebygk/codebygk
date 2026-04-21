@@ -1,68 +1,145 @@
-# 👋 Hey, I'm Gopalakrishnan (@codebygk)
+<div align="center">
 
-### Building the bridge between QA, Development, and AI
+# Hey, I'm GK 👋
+### Senior QA Engineer · SDET · Digital Product Builder
 
-I craft tools that make software testing smarter, development faster, and AI more accessible. Because quality shouldn't be a bottleneck—it should be a catalyst.
+*Breaking software by day. Shipping it by night.*
 
----
+<br/>
 
-## 🚀 What I Do
+[![Website](https://img.shields.io/badge/codebygk.com-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://codebygk.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codebygk)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codebygk)
 
-I specialize in creating **practical, production-ready tools** at the intersection of:
-
-- **Quality Assurance** – Automation frameworks, testing utilities, and CI/CD integrations
-- **Development** – Developer tools, libraries, and productivity enhancers  
-- **Artificial Intelligence** – AI-powered testing solutions, intelligent automation, and ML workflows
-
-If it can be automated, optimized, or intelligently enhanced, I'm probably building it.
+</div>
 
 ---
 
-## 🏗️ Current Focus
+## About Me
 
-- 🤖 Developing AI-assisted testing tools that actually understand your code
-- 🔧 Building open-source utilities for modern QA workflows
-- 🌐 Founder of **[@qacancode](https://github.com/qacancode)** – empowering QA engineers to code with confidence
-- 📚 Sharing insights at **[qacancode.com](https://qacancode.com)**
+I'm a **Senior QA Engineer / SDET** with 11+ years of experience in test automation, and a solopreneur building lean digital products under **[codebygk](https://codebygk.com)**.
 
----
-
-## 💡 Philosophy
-
-```
-Test smarter, not harder.
-Code with purpose, build with passion.
-Make AI work for you, not against you.
-```
-
-Quality assurance isn't just about finding bugs—it's about building systems that prevent them. Development isn't just about features—it's about creating maintainable, testable architectures. And AI isn't magic—it's a tool that, when wielded correctly, can transform how we build software.
+- 🏢 Currently at **Mettler-Toledo**, Coimbatore, India
+- 🧪 Specialising in **test automation**, AI tooling, and LLM evaluation engineering
+- 🛠️ Building Chrome extensions, web apps, and AI-powered tools
+- 🌱 Exploring the intersection of **QA + AI** — RAGAS, RAG pipelines, LLM evals
+- ✍️ Documenting everything at **[codebygk.com/learn](https://codebygk.com/learn)**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🚀 Products
 
-**Languages & Frameworks:** Python, JavaScript/TypeScript, Java, Selenium, Playwright, Cypress  
-**AI & ML:** TensorFlow, PyTorch, OpenAI APIs, LangChain, RAG systems  
-**DevOps & CI/CD:** Docker, Jenkins, GitHub Actions, GitLab CI, AWS  
-**Testing Philosophy:** Test automation, API testing, performance testing, contract testing
+| Product | What it does | Type |
+|---|---|---|
+| [**NanoRead**](https://nanoread.vercel.app) | AI-powered webpage summarizer | Web App |
+| [**DOM2POM**](https://chromewebstore.google.com/detail/dom2pom/bbfeagmbljikacnmnchppakfeglblgea) | Generates Page Object Models from live DOM | Chrome Extension |
+| [**ZapComment**](https://zapcomment.vercel.app) | AI comment generator for LinkedIn & X | Chrome Extension |
+| [**Zapcalc**](https://zapcalc.vercel.app) | Personal financial calculators | Web App |
+| [**Dorkmine**](https://dorkmine.vercel.app) | Google dork query generator | Web App |
 
----
-
-## 🤝 Let's Connect
-
-- **LinkedIn:** [@codebygk](https://linkedin.com/in/codebygk)
-- **X:** [@codebygk](https://x.com/codebygk)
-
-💬 **Let's collaborate** on making QA engineering more powerful and accessible
+More products at: [https://codebygk.com/products](https://codebygk.com/products)
 
 ---
 
-### 🎯 Mission
+## 📦 Resources
 
-Empowering QA engineers and developers with tools that blend traditional quality practices with cutting-edge AI capabilities. Because the future of software quality is automated, intelligent, and accessible to everyone.
+Production-ready frameworks, cheatsheets, and career templates — built from a decade of engineering experience.
 
-**Remember:** Quality is not an act, it is a habit. Let's build that habit together.
+| Resource | Category | Access |
+|---|---|---|
+| [**Playwright Cheatsheet**](https://codebygk.vercel.app/resources/playwright-cheatsheet) | Cheatsheet | Free |
+| [**Playwright Framework Starter**](https://codebygk.vercel.app/resources/playwright-framework-starter) | Framework | Free |
+| [**QA Resume Template**](https://codebygk.vercel.app/resources/qa-resume-template) | Career | Free |
+| [**Selenium Java Cheatsheet**](https://codebygk.vercel.app/resources) | Cheatsheet | Free |
+| [**API Testing with Postman**](https://codebygk.vercel.app/resources) | Guide | Free |
+
+More resources at: [https://codebygk.com/resources](https://codebygk.com/resources)
 
 ---
 
-*⭐ If you find my projects useful, consider starring them. It fuels the builder's spirit!*
+## 🎓 Tutorials
+
+Hands-on learning paths for QA engineers who think like software engineers.
+
+| Tutorial | What you'll learn |
+|---|---|
+| [**Artificial Intelligence**](https://codebygk.vercel.app/learn/artificial-intelligence) | Hands-on AI & ML concepts with code examples |
+| [**Playwright with Python**](https://codebygk.vercel.app/learn/playwright-with-python) | End-to-end test automation using Playwright + Python |
+| [**Python Fundamentals**](https://codebygk.vercel.app/learn/python-fundamentals) | Core Python for QA engineers and SDETs |
+| [**Test Automation Architecture**](https://codebygk.vercel.app/learn) | Building scalable, maintainable test frameworks |
+| [**LLM Evaluation & Testing**](https://codebygk.vercel.app/learn) | Testing AI models with RAGAS and RAG pipelines |
+
+More tutorials at: [https://codebygk.com/learn](https://codebygk.com/learn)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="left">
+  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285f4?style=flat-square&logo=googlechrome&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon%20Postgres-00e599?style=flat-square&logo=neon&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=codebygk&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0d9488&icon_color=0d9488&text_color=c9d1d9&ring_color=0d9488&border_radius=12&count_private=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=codebygk&theme=transparent&hide_border=true&background=0d1117&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&sideLabels=6b7280&dates=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=0d1117&border_radius=12" height="170" />
+
+</div>
+
+<div align="left">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebygk&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0d9488&text_color=c9d1d9&border_radius=12&langs_count=6" height="170" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="left">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codebygk&theme=react-dark&hide_border=true&bg_color=0d1117&color=0d9488&line=0d9488&point=ffffff&area=true&area_color=0d9488&radius=6)](https://github.com/codebygk)
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="left">
+
+| | Achievement | Description |
+|:---:|---|---|
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="36" /> | **Pull Shark** | Opened pull requests that have been merged |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="36" /> | **Quickdraw** | Closed an issue or pull request within 5 minutes of opening |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="36" /> | **YOLO** | Merged a pull request without a review |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="36" /> | **Open Sourcerer** | Contributed to multiple public repositories |
+
+</div>
+
+---
+
+<div align="left">
+
+*Built lean. Shipped with intent. Always learning.*
+
+**[codebygk.com](https://codebygk.com)** · Coimbatore, India 🇮🇳
+
+</div>
