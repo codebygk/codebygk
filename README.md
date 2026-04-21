@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hey, I'm Gopalakrishnan / GK 👋
-### Senior QA Engineer · SDET · Digital Product Builder
+# Hey, I'm Gopalakrishnan (@codebygk)
+### Senior QA Engineer | Full Stack Developer
 
-*Breaking software by day. Shipping it by night.*
+Breaking software by day. Shipping it by night.
 
 <br/>
 
-[![Website](https://img.shields.io/badge/codebygk.com-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://codebygk.com)
+[![Website](https://img.shields.io/badge/Website-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://codebygk.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codebygk)
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codebygk)
 
@@ -17,13 +17,13 @@
 
 ## About Me
 
-I'm a **Senior QA Engineer / SDET** with 11+ years of experience in test automation, and a solopreneur building products under **[codebygk.com/products](https://codebygk.com/products)**.
+I'm a **Senior QA Engineer / SDET** with 11+ years of experience in test automation, and a solopreneur building products under **[codebygk.vercel.app/products](https://codebygk.vercel.app/products)**.
 
 - 🏢 Currently at **Mettler-Toledo**, Coimbatore, India
 - 🧪 Specialising in **test automation**, AI tooling, and LLM evaluation engineering
 - 🛠️ Building Chrome extensions, web apps, and AI-powered tools
 - 🌱 Exploring the intersection of **QA + AI** — RAGAS, RAG pipelines, LLM evals
-- ✍️ Documenting everything at **[codebygk.com/learn](https://codebygk.com/learn)**
+- ✍️ Documenting everything at **[codebygk.vercel.app/learn](https://codebygk.vercel.app/learn)**
 
 ---
 
@@ -33,11 +33,10 @@ I'm a **Senior QA Engineer / SDET** with 11+ years of experience in test automat
 |---|---|---|
 | [**NanoRead**](https://nanoread.vercel.app) | AI-powered webpage summarizer | Web App |
 | [**DOM2POM**](https://chromewebstore.google.com/detail/dom2pom/bbfeagmbljikacnmnchppakfeglblgea) | Generates Page Object Models from live DOM | Chrome Extension |
-| [**ZapComment**](https://zapcomment.vercel.app) | AI comment generator for LinkedIn & X | Chrome Extension |
 | [**Zapcalc**](https://zapcalc.vercel.app) | Personal financial calculators | Web App |
 | [**Dorkmine**](https://dorkmine.vercel.app) | Google dork query generator | Web App |
 
-More products at: [https://codebygk.com/products](https://codebygk.com/products)
+More products at: [https://codebygk.vercel.app/products](https://codebygk.vercel.app/products)
 
 ---
 
@@ -48,12 +47,8 @@ Production-ready frameworks, cheatsheets, and career templates — built from a 
 | Resource | Category | Access |
 |---|---|---|
 | [**Playwright Cheatsheet**](https://codebygk.vercel.app/resources/playwright-cheatsheet) | Cheatsheet | Free |
-| [**Playwright Framework Starter**](https://codebygk.vercel.app/resources/playwright-framework-starter) | Framework | Free |
-| [**QA Resume Template**](https://codebygk.vercel.app/resources/qa-resume-template) | Career | Free |
-| [**Selenium Java Cheatsheet**](https://codebygk.vercel.app/resources) | Cheatsheet | Free |
-| [**API Testing with Postman**](https://codebygk.vercel.app/resources) | Guide | Free |
 
-More resources at: [https://codebygk.com/resources](https://codebygk.com/resources)
+More resources at: [https://codebygk.vercel.app/resources](https://codebygk.vercel.app/resources)
 
 ---
 
@@ -64,12 +59,8 @@ Hands-on learning paths for QA engineers who think like software engineers.
 | Tutorial | What you'll learn |
 |---|---|
 | [**Artificial Intelligence**](https://codebygk.vercel.app/learn/artificial-intelligence) | Hands-on AI & ML concepts with code examples |
-| [**Playwright with Python**](https://codebygk.vercel.app/learn/playwright-with-python) | End-to-end test automation using Playwright + Python |
-| [**Python Fundamentals**](https://codebygk.vercel.app/learn/python-fundamentals) | Core Python for QA engineers and SDETs |
-| [**Test Automation Architecture**](https://codebygk.vercel.app/learn) | Building scalable, maintainable test frameworks |
-| [**LLM Evaluation & Testing**](https://codebygk.vercel.app/learn) | Testing AI models with RAGAS and RAG pipelines |
 
-More tutorials at: [https://codebygk.com/learn](https://codebygk.com/learn)
+More tutorials at: [https://codebygk.vercel.app/learn](https://codebygk.vercel.app/learn)
 
 ---
 
@@ -138,8 +129,6 @@ More tutorials at: [https://codebygk.com/learn](https://codebygk.com/learn)
 
 <div align="left">
 
-*Built lean. Shipped with intent. Always learning.*
-
-**[codebygk.com](https://codebygk.com)** · Coimbatore, India 🇮🇳
+**[Code By GK](https://codebygk.vercel.app)** | Built lean. Shipped with intent. Always learning.
 
 </div>
