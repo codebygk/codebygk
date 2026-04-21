@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm GK 👋
+# Hey, I'm Gopalakrishnan / GK 👋
 ### Senior QA Engineer · SDET · Digital Product Builder
 
 *Breaking software by day. Shipping it by night.*
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a **Senior QA Engineer / SDET** with 11+ years of experience in test automation, and a solopreneur building lean digital products under **[codebygk](https://codebygk.com)**.
+I'm a **Senior QA Engineer / SDET** with 11+ years of experience in test automation, and a solopreneur building products under **[codebygk.com/products](https://codebygk.com/products)**.
 
 - 🏢 Currently at **Mettler-Toledo**, Coimbatore, India
 - 🧪 Specialising in **test automation**, AI tooling, and LLM evaluation engineering
