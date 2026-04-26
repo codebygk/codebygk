@@ -2,7 +2,7 @@
 
 # Gopalakrishnan P (@codebygk)
 
-### Building Useful Tools & Resources
+### Building Useful Products & Resources
 
 `11+ years` &nbsp;|&nbsp; `Test Automation` &nbsp;|&nbsp; `Full Stack Development`&nbsp;|&nbsp; `Solopreneur` &nbsp;
 
@@ -179,6 +179,6 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 
 <div align="left">
 
-&copy; 2026 - Code By GK - Building Useful Tools & Resources
+&copy; 2026 - Code By GK - Building Products Tools & Resources
 
 </div>
