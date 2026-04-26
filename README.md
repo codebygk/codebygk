@@ -6,7 +6,7 @@
 
 `11+ years` &nbsp;|&nbsp; `Test Automation` &nbsp;|&nbsp; `Full Stack Development`&nbsp;|&nbsp; `Solopreneur` &nbsp;
 
-[![Website](https://img.shields.io/badge/Website-0d9488?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzguMjEgMCA0LjgzMSAxLjc1NyAyLjYzMiA0LjUwMWwzLjk1MyA2Ljg0OEE1LjQ1NCA1LjQ1NCAwIDAgMSAxMiA2LjU0NWgxMC42OTFBMTIgMTIgMCAwIDAgMTIgMHpNMS45MzEgNS40N0ExMS45NDMgMTEuOTQzIDAgMCAwIDAgMTJjMCA2LjAxMiA0LjQyIDEwLjk5MSAxMC4xODkgMTEuODY0bDMuOTUzLTYuODQ3YTUuNDUgNS40NSAwIDAgMS02Ljg2NS0yLjI5em0xMy4zNDIgMi4xNjZhNS40NDYgNS40NDYgMCAwIDEgMS40NSA3LjA5bC4wMDIuMDAxaC0uMDAybC01LjM0NCA5LjI1N2MuMjA2LjAxLjQxMy4wMTYuNjIxLjAxNiA2LjYyNyAwIDEyLTUuMzczIDEyLTEyIDAtMS41ODgtLjI5LTMuMTA5LS44MTgtNC4zNjR6TTEyIDEwLjkwOWExLjA5MSAxLjA5MSAwIDEgMSAwIDIuMTgyIDEuMDkxIDEuMDkxIDAgMCAxIDAtMi4xODJ6Ii8+PC9zdmc+&logoColor=white)](https://codebygk.vercel.app)
+[![Website](https://img.shields.io/badge/Website-0d9488?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzguMjEgMCA0LjgzMSAxLjc1NyAyLjYzMiA0LjUwMWwzLjk1MyA2Ljg0OEE1LjQ1NCA1LjQ1NCAwIDAgMSAxMiA2LjU0NWgxMC42OTFBMTIgMTIgMCAwIDAgMTIgMHpNMS45MzEgNS40N0ExMS45NDMgMTEuOTQzIDAgMCAwIDAgMTJjMCA2LjAxMiA0LjQyIDEwLjk5MSAxMC4xODkgMTEuODY0bDMuOTUzLTYuODQ3YTUuNDUgNS40NSAwIDAgMS02Ljg2NS0yLjI5em0xMy4zNDIgMi4xNjZhNS40NDYgNS40NDYgMCAwIDEgMS40NSA3LjA5bC4wMDIuMDAxaC0uMDAybC01LjM0NCA5LjI1N2MuMjA2LjAxLjQxMy4wMTYuNjIxLjAxNiA2LjYyNyAwIDEyLTUuMzczIDEyLTEyIDAtMS41ODgtLjI5LTMuMTA5LS44MTgtNC4zNjR6TTEyIDEwLjkwOWExLjA5MSAxLjA5MSAwIDEgMSAwIDIuMTgyIDEuMDkxIDEuMDkxIDAgMCAxIDAtMi4xODJ6Ii8+PC9zdmc+&logoColor=white)](https://codebygk.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=white)](https://linkedin.com/in/codebygk)
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC45MDEgMS4xNTNoMy42OGwtOC4wNCA5LjE5TDI0IDIyLjg0NmgtNy40MDZsLTUuOC03LjU4NC02LjYzOCA3LjU4NEguNDc0bDguNi05LjgzTDAgMS4xNTRoNy41OTRsNS4yNDMgNi45MzJaTTE3LjYxIDIwLjY0NGgyLjAzOUw2LjQ4NiAzLjI0SDQuMjk4WiIvPjwvc3ZnPg==&logoColor=white)](https://x.com/codebygk)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yNCA1LjQ1N3YxMy45MDljMCAuOTA0LS43MzIgMS42MzYtMS42MzYgMS42MzZoLTMuODE5VjExLjczTDEyIDE2LjY0bC02LjU0NS00LjkxdjkuMjczSDEuNjM2QTEuNjM2IDEuNjM2IDAgMCAxIDAgMTkuMzY2VjUuNDU3YzAtMi4wMjMgMi4zMDktMy4xNzggMy45MjctMS45NjRMNS40NTUgNC42NCAxMiA5LjU0OGw2LjU0NS00LjkwNyAxLjUyOC0xLjE0OEMyMS42OSAyLjI4IDI0IDMuNDM0IDI0IDUuNDU3eiIvPjwvc3ZnPg==&logoColor=white)](mailto:gopalakrishnan.work@gmail.com)
@@ -120,25 +120,25 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 | [Zapcalc](https://zapcalc.vercel.app) | Personal financial calculators | Web App |
 | [Dorkmine](https://dorkmine.vercel.app) | Google dork query generator | Web App |
 
-> More at **[codebygk.vercel.app/products](https://codebygk.vercel.app/products)**
+> More at **[codebygk.com/products](https://codebygk.com/products)**
 
 
 ## 📦 Resources
 
 | Resource | Category |
 |:---------|:---------|
-| [Playwright Cheatsheet](https://codebygk.vercel.app/resources/playwright-cheatsheet) | Cheatsheet |
+| [Playwright Cheatsheet](https://codebygk.com/resources/playwright-cheatsheet) | Cheatsheet |
 
-> More at **[codebygk.vercel.app/resources](https://codebygk.vercel.app/resources)**
+> More at **[codebygk.com/resources](https://codebygk.com/resources)**
 
 
 ## 📕 Tutorials
 
 | Tutorial | Category |
 |:---------|:---------|
-| [Artificial Intelligence](https://codebygk.vercel.app/learn/artificial-intelligence) | Test Automation |
+| [Artificial Intelligence](https://codebygk.com/learn/artificial-intelligence) | Test Automation |
 
-> More at **[codebygk.vercel.app/learn](https://codebygk.vercel.app/learn)**
+> More at **[codebygk.com/learn](https://codebygk.com/learn)**
 
 
 ## 📊 GitHub Stats
