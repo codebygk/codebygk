@@ -1,6 +1,6 @@
 <div align="left">
 
-# Gopalakrishnan P (@codebygk)
+# Gopalakrishnan (@codebygk)
 
 ### Building Useful Products & Resources
 
