@@ -2,7 +2,7 @@
 
 # Gopalakrishnan (@codebygk)
 
-### Building Useful Products & Resources
+### Building Scalable Products & Resources
 
 `11+ years` &nbsp;|&nbsp; `Test Automation` &nbsp;|&nbsp; `Full Stack Development`&nbsp;|&nbsp; `Solopreneur` &nbsp;
 
