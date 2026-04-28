@@ -179,6 +179,6 @@ AI-Powered SDET with 11+ years of experience building intelligent, resilient, an
 
 <div align="left">
 
-&copy; 2026 - Code By GK - Building Products Tools & Resources
+&copy; 2026 - Code By GK - Building Scalable Products Tools & Resources
 
 </div>
