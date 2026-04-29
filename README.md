@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-AI-Powered SDET with 11+ years of experience building intelligent, resilient, and self-healing test frameworks.
+AI-Powered SDET with over a decade of experience building intelligent, resilient, and self-healing test frameworks.
 
 - Test automation, AI tooling, and LLM evaluation engineering
 - Building Chrome extensions, web apps, and AI-powered tools
