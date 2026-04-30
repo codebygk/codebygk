@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-### Senior QA Automation Engineer | SDET
+### Senior SDET | QA Automation Expert
 
 AI-Powered SDET with over a decade of experience building intelligent, resilient, and self-healing test frameworks.
 
