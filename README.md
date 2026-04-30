@@ -161,20 +161,6 @@ AI-Powered SDET with over a decade of experience building intelligent, resilient
 
 </div>
 
-
-## 🏅 GitHub Achievements
-
-<div align="left">
-
-| | Achievement | Description |
-|:---:|:---|:---|
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="36" /> | Pull Shark | Opened pull requests that have been merged |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="36" /> | Quickdraw | Closed an issue or pull request within 5 minutes of opening |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="36" /> | YOLO | Merged a pull request without a review |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="36" /> | Open Sourcerer | Contributed to multiple public repositories |
-
-</div>
-
 ---
 
 <div align="left">
