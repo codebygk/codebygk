@@ -1,7 +1,9 @@
-<div align="left">
+<div align="center">
 
 
 # Gopalakrishnan (@codebygk)
+
+### Senior SDET - QA Automation Expert
 
 [![Website](https://img.shields.io/badge/Website-0d9488?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzguMjEgMCA0LjgzMSAxLjc1NyAyLjYzMiA0LjUwMWwzLjk1MyA2Ljg0OEE1LjQ1NCA1LjQ1NCAwIDAgMSAxMiA2LjU0NWgxMC42OTFBMTIgMTIgMCAwIDAgMTIgMHpNMS45MzEgNS40N0ExMS45NDMgMTEuOTQzIDAgMCAwIDAgMTJjMCA2LjAxMiA0LjQyIDEwLjk5MSAxMC4xODkgMTEuODY0bDMuOTUzLTYuODQ3YTUuNDUgNS40NSAwIDAgMS02Ljg2NS0yLjI5em0xMy4zNDIgMi4xNjZhNS40NDYgNS40NDYgMCAwIDEgMS40NSA3LjA5bC4wMDIuMDAxaC0uMDAybC01LjM0NCA5LjI1N2MuMjA2LjAxLjQxMy4wMTYuNjIxLjAxNiA2LjYyNyAwIDEyLTUuMzczIDEyLTEyIDAtMS41ODgtLjI5LTMuMTA5LS44MTgtNC4zNjR6TTEyIDEwLjkwOWExLjA5MSAxLjA5MSAwIDEgMSAwIDIuMTgyIDEuMDkxIDEuMDkxIDAgMCAxIDAtMi4xODJ6Ii8+PC9zdmc+&logoColor=white)](https://codebygk.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=white)](https://linkedin.com/in/codebygk)
@@ -10,11 +12,11 @@
 
 </div>
 
+---
+
 ![Code By GK](/images/codebygk-cover-image-left-aligned.png)
 
 ## 👨‍💻 About Me
-
-### Senior SDET | QA Automation Expert
 
 AI-Powered SDET with over a decade of experience building intelligent, resilient, and self-healing test frameworks.
 
