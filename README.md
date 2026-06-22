@@ -134,11 +134,11 @@ AI-Powered SDET with over a decade of experience building intelligent, resilient
 > More at **[codebygk.com/resources](https://codebygk.com/resources)**
 
 
-## 📕 Tutorials
+## 📕 Learnings
 
 | Tutorial | Category |
 |:---------|:---------|
-| [Artificial Intelligence](https://codebygk.com/learn/artificial-intelligence) | Test Automation |
+| [LLM Fundamentals](https://codebygk.com/learn/llm-fundamentals) | Artificial Intelligence |
 
 > More at **[codebygk.com/learn](https://codebygk.com/learn)**
 
