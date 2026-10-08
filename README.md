@@ -128,9 +128,9 @@ AI-Powered SDET with over a decade of experience building intelligent, resilient
 
 | Resource | Category |
 |:---------|:---------|
-| [XPath Cheatsheet](https://codebygk.com/resources/xpath-cheatsheet | Cheatsheet |
-| [CSS Selector Cheatsheet](https://codebygk.com/resources/css-selector-cheatsheet | Cheatsheet |
-| [Playwright Locator Cheatsheet](https://codebygk.com/resources/playwright-locator-cheatsheet | Cheatsheet |
+| [XPath Cheatsheet](https://codebygk.com/resources/xpath-cheatsheet) | Cheatsheet |
+| [CSS Selector Cheatsheet](https://codebygk.com/resources/css-selector-cheatsheet) | Cheatsheet |
+| [Playwright Locator Cheatsheet](https://codebygk.com/resources/playwright-locator-cheatsheet) | Cheatsheet |
 
 > More at **[codebygk.com/resources](https://codebygk.com/resources)**
 
