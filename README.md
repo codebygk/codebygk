@@ -117,10 +117,9 @@ AI-Powered SDET with over a decade of experience building intelligent, resilient
 
 | Product | Description | Type |
 |:--------|:------------|:-----|
-| [NanoRead](https://nanoread.vercel.app) | AI-powered webpage summarizer | Web App |
+| [NanoRead](https://nanoread.codebygk.com) | AI-powered webpage summarizer | Web App |
 | [DOM2POM](https://chromewebstore.google.com/detail/dom2pom/bbfeagmbljikacnmnchppakfeglblgea) | Generates Page Object Models from live DOM | Chrome Extension |
-| [Zapcalc](https://zapcalc.vercel.app) | Personal financial calculators | Web App |
-| [Dorkmine](https://dorkmine.vercel.app) | Google dork query generator | Web App |
+| [Dorkmine](https://dorkmine.codebygk.com) | Google dork query generator | Web App |
 
 > More at **[codebygk.com/products](https://codebygk.com/products)**
 
@@ -129,7 +128,9 @@ AI-Powered SDET with over a decade of experience building intelligent, resilient
 
 | Resource | Category |
 |:---------|:---------|
-| [Playwright Cheatsheet](https://codebygk.com/resources/playwright-cheatsheet) | Cheatsheet |
+| [XPath Cheatsheet](https://codebygk.com/resources/xpath-cheatsheet | Cheatsheet |
+| [CSS Selector Cheatsheet](https://codebygk.com/resources/css-selector-cheatsheet | Cheatsheet |
+| [Playwright Locator Cheatsheet](https://codebygk.com/resources/playwright-locator-cheatsheet | Cheatsheet |
 
 > More at **[codebygk.com/resources](https://codebygk.com/resources)**
 
@@ -151,15 +152,6 @@ AI-Powered SDET with over a decade of experience building intelligent, resilient
 <img src="https://streak-stats.demolab.com?user=codebygk&theme=transparent&hide_border=true&background=0d1117&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&sideLabels=6b7280&dates=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=0d1117&border_radius=12" height="160" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebygk&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0d9488&text_color=c9d1d9&border_radius=12&langs_count=8" height="160" />
-
-</div>
-
-
-## 📈 Contribution Graph
-
-<div align="left">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codebygk&theme=react-dark&hide_border=true&bg_color=0d1117&color=0d9488&line=0d9488&point=ffffff&area=true&area_color=0d9488&radius=6)](https://github.com/codebygk)
 
 </div>
 
