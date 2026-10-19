@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Code By GK: practical engineering, automation, and AI">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#58a6ff"/>
+<stop offset="1" stop-color="#3fb950"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="250" rx="14" fill="#0d1117"/>
+<rect x="1" y="1" width="1198" height="248" rx="13" fill="none" stroke="#30363d"/>
+<path d="M0 218H1200" stroke="#30363d" opacity=".65"/>
+<path d="M810 0h390v218H810z" fill="#161b22" opacity=".55"/>
+<circle cx="1010" cy="112" r="78" fill="none" stroke="#58a6ff" stroke-width="1" stroke-dasharray="3 8" opacity=".65">
+<animate attributeName="stroke-dashoffset" from="0" to="-44" dur="8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1010" cy="112" r="54" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="1010" cy="112" r="44" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".75"/>
+<path d="m1002 101-10 11 10 11m16-22 10 11-10 11m1-28-13 32" fill="none" stroke="#e6edf3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#0d1117" stroke="url(#accent)" stroke-width="2">
+<circle cx="1010" cy="33" r="13"/>
+<circle cx="1088" cy="112" r="13"/>
+<circle cx="1010" cy="191" r="13"/>
+</g>
+<path d="m1005 33 4 4 7-8m66 83 4 4 7-8m-80 83 4 4 7-8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1010" cy="112" r="50" fill="none" stroke="#58a6ff" opacity=".12">
+<animate attributeName="r" values="48;58;48" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".22;.04;.22" dur="4s" repeatCount="indefinite"/>
+</circle>
+<text x="56" y="55" fill="#58a6ff" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="650" text-anchor="start">CODE BY GK  /  ENGINEERING NOTES</text>
+<text x="54" y="111" fill="#e6edf3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="39" font-weight="700" text-anchor="start">Build. Automate. Scale.</text>
+<text x="57" y="145" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="400" text-anchor="start">Practical tools, quality engineering, and AI.</text>
+<rect x="56" y="174" width="34" height="2" rx="1" fill="url(#accent)"/>
+<text x="110" y="204" fill="#e6edf3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="start">10</text>
+<text x="144" y="203" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="9" font-weight="600" text-anchor="start">PUBLIC REPOSITORIES</text>
+<text x="315" y="204" fill="#e6edf3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="start">17</text>
+<text x="349" y="203" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="9" font-weight="600" text-anchor="start">FOLLOWERS</text>
+<text x="520" y="204" fill="#e6edf3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="start">571</text>
+<text x="554" y="203" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="9" font-weight="600" text-anchor="start">CONTRIBUTIONS</text>
+<text x="1142" y="226" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="9" font-weight="400" text-anchor="end">100 STARS ACROSS PUBLIC REPOS</text>
+</svg>

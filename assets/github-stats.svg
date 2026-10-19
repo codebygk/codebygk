@@ -1,7 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-    width="760" height="230"
-    viewBox="0 0 760 230"
-    role="img" aria-labelledby="svg-title">
-    <title id="svg-title">GitHub statistics</title>
-    <rect width="100%" height="100%" rx="16" fill="#0B1120"/>
-    <text x="24" y="32" fill="#94A3B8" font-size="11" letter-spacing="2" font-family="Arial, sans-serif">CODE BY GK / GITHUB OVERVIEW</text><rect x="24" y="48" width="344" height="70" rx="12" fill="#101A2D" stroke="#24324A"/><rect x="24" y="61" width="3" height="44" rx="1.5" fill="#3DDC97"/><text x="40" y="73" fill="#94A3B8" font-size="10" letter-spacing="1" font-family="Arial, sans-serif">PUBLIC REPOSITORIES</text><text x="40" y="101" fill="#E6EDF7" font-size="23" font-weight="700" font-family="Arial, sans-serif">10</text><rect x="392" y="48" width="344" height="70" rx="12" fill="#101A2D" stroke="#24324A"/><rect x="392" y="61" width="3" height="44" rx="1.5" fill="#60A5FA"/><text x="408" y="73" fill="#94A3B8" font-size="10" letter-spacing="1" font-family="Arial, sans-serif">FOLLOWERS</text><text x="408" y="101" fill="#E6EDF7" font-size="23" font-weight="700" font-family="Arial, sans-serif">17</text><rect x="24" y="132" width="344" height="70" rx="12" fill="#101A2D" stroke="#24324A"/><rect x="24" y="145" width="3" height="44" rx="1.5" fill="#A78BFA"/><text x="40" y="157" fill="#94A3B8" font-size="10" letter-spacing="1" font-family="Arial, sans-serif">STARS</text><text x="40" y="185" fill="#E6EDF7" font-size="23" font-weight="700" font-family="Arial, sans-serif">100</text><rect x="392" y="132" width="344" height="70" rx="12" fill="#101A2D" stroke="#24324A"/><rect x="392" y="145" width="3" height="44" rx="1.5" fill="#3DDC97"/><text x="408" y="157" fill="#94A3B8" font-size="10" letter-spacing="1" font-family="Arial, sans-serif">FORKS</text><text x="408" y="185" fill="#E6EDF7" font-size="23" font-weight="700" font-family="Arial, sans-serif">27</text><text x="380" y="220" text-anchor="middle" fill="#94A3B8" font-size="10" font-family="Arial, sans-serif">570 contributions in the last 365 days</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="174" viewBox="0 0 900 174" role="img" aria-label="GitHub profile statistics"><rect width="100%" height="100%" rx="12" fill="#0d1117"/><rect x="1" y="1" width="898" height="172" rx="11" fill="none" stroke="#30363d"/>
+<text x="28" y="35" fill="#e6edf3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" text-anchor="start">GitHub at a glance</text>
+<text x="872" y="35" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="600" text-anchor="end">CODE BY GK</text>
+<rect x="28" y="54" width="202" height="92" rx="9" fill="#161b22" stroke="#30363d"/>
+<rect x="28" y="54" width="3" height="92" rx="1.5" fill="#58a6ff"/>
+<text x="44" y="82" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10" font-weight="600" text-anchor="start">PUBLIC REPOSITORIES</text>
+<text x="44" y="119" fill="#e6edf3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="27" font-weight="650" text-anchor="start">10</text>
+<rect x="245" y="54" width="202" height="92" rx="9" fill="#161b22" stroke="#30363d"/>
+<rect x="245" y="54" width="3" height="92" rx="1.5" fill="#3fb950"/>
+<text x="261" y="82" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10" font-weight="600" text-anchor="start">FOLLOWERS</text>
+<text x="261" y="119" fill="#e6edf3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="27" font-weight="650" text-anchor="start">17</text>
+<rect x="462" y="54" width="202" height="92" rx="9" fill="#161b22" stroke="#30363d"/>
+<rect x="462" y="54" width="3" height="92" rx="1.5" fill="#bc8cff"/>
+<text x="478" y="82" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10" font-weight="600" text-anchor="start">TOTAL STARS</text>
+<text x="478" y="119" fill="#e6edf3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="27" font-weight="650" text-anchor="start">100</text>
+<rect x="679" y="54" width="202" height="92" rx="9" fill="#161b22" stroke="#30363d"/>
+<rect x="679" y="54" width="3" height="92" rx="1.5" fill="#f0883e"/>
+<text x="695" y="82" fill="#919ba6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10" font-weight="600" text-anchor="start">CONTRIBUTIONS</text>
+<text x="695" y="119" fill="#e6edf3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="27" font-weight="650" text-anchor="start">571</text>
+</svg>
