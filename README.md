@@ -14,8 +14,6 @@
 
 ---
 
-![Code By GK](/images/codebygk-cover-image-left-aligned.png)
-
 ## 👨‍💻 About Me
 
 AI-Powered SDET with over a decade of experience building intelligent, resilient, and self-healing test frameworks.
