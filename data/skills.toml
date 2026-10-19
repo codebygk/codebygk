@@ -1,0 +1,71 @@
+[meta]
+max_level = 5
+scoring   = "top3"   # "mean" = average of all tools, "top3" = average of your 3 strongest
+
+[[category]]
+name = "UI Automation"
+[category.tools]
+Playwright  = 5
+Selenium    = 3
+Squish      = 3
+Appium      = 4
+WinAppDriver = 4
+PyWinAuto   = 4
+
+[[category]]
+name = "API Testing"
+[category.tools]
+REST        = 5
+Postman     = 5
+RestAssured = 4
+RestSharp   = 4
+GraphQL     = 4
+Swagger     = 4
+
+[[category]]
+name = "LLM Evals"
+[category.tools]
+RAGAS       = 4
+DeepEval    = 4
+PromptFoo   = 4
+
+[[category]]
+name = "Security"
+[category.tools]
+"Burp Suite" = 3
+"OWASP ZAP"  = 3
+Nmap         = 3
+Wireshark    = 3
+JMeter       = 4
+FFUF         = 3
+
+[[category]]
+name = "DevOps"
+[category.tools]
+"GitHub Actions" = 4
+"Azure DevOps"   = 4
+Jenkins          = 4
+Docker           = 4
+Kubernetes       = 3
+Vercel           = 4
+
+[[category]]
+name = "Frontend"
+[category.tools]
+"Next.js"   = 4
+React       = 4
+Tailwind    = 4
+FastAPI     = 4
+TypeScript  = 4
+"Vue 3"     = 3
+
+
+[[category]]
+name = "Backend"
+[category.tools]
+"Next.js"   = 4
+React       = 4
+Tailwind    = 4
+FastAPI     = 4
+TypeScript  = 4
+"Vue 3"     = 3
