@@ -1,0 +1,54 @@
+
+[Languages]
+items = ["Python", "TypeScript", "JavaScript", "C#", "Java", "SQL"]
+
+[Automation]
+items = [
+  "Selenium",
+  "Playwright",
+  "Squish",
+  "Appium",
+  "WinAppDriver",
+  "PyWinAuto",
+  "pytest",
+  "TestNG",
+  "NUnit"
+]
+
+[API_and_Performance]
+label = "API & Performance"
+items = [
+  "REST APIs",
+  "GraphQL",
+  "Postman",
+  "Swagger",
+  "RestAssured",
+  "RestSharp",
+  "JMeter"
+]
+
+[Frontend]
+items = ["React", "Next.js", "Vue", "Angular", "Tailwind CSS"]
+
+[Backend_and_Databases]
+label = "Backend & Databases"
+items = ["FastAPI", "Express.js", "PostgreSQL", "SQL Server"]
+
+[DevOps_and_Tools]
+label = "DevOps & Tools"
+items = [
+  "Git",
+  "Azure DevOps",
+  "Jenkins",
+  "GitHub Actions",
+  "Docker",
+  "Kubernetes"
+]
+
+[AI_and_GenAI]
+label = "AI & GenAI"
+items = [
+  "LLMs",
+  "Generative AI",
+  "LLM Evaluation"
+]

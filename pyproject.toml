@@ -1,0 +1,20 @@
+[project]
+name = "codebygk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "codebygk", email = "gopalakrishnan.work@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.2.4",
+    "tomli>=2.5.0",
+]
+
+[project.scripts]
+codebygk = "codebygk:main"
+
+[build-system]
+requires = ["uv_build>=0.12.18,<0.13.0"]
+build-backend = "uv_build"
